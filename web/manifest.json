@@ -1,6 +1,6 @@
 {
-    "name": "webform",
-    "short_name": "webform",
+    "name": "webnew",
+    "short_name": "webnew",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
